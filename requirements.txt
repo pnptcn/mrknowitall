@@ -1,0 +1,7 @@
+deeplake==3.9.15
+playwright==1.45.1
+lxml==5.2.2
+beautifulsoup4==4.12.3
+llama-index==0.10.58
+lmql==0.0.2.1
+llama-index-vector-stores-deeplake==0.1.5
